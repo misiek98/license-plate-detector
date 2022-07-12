@@ -1,0 +1,9 @@
+train: C:\Users\Misiek\Desktop\Python\gate_opener\data_prep\data\train_dataset
+val: C:\Users\Misiek\Desktop\Python\gate_opener\data_prep\data\val_dataset
+test: C:\Users\Misiek\Desktop\Python\gate_opener\data_prep\data\test_dataset
+
+# number of classes
+nc: 1
+
+# class names
+names: ["car_plates"]
